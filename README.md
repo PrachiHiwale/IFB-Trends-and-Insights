@@ -9,3 +9,4 @@ Sales insights per region, city, and pincode.
 Radius-based geographic filtering for customer distribution and sales analysis.
 Two-year sales comparison with categorization by region (metro, urban, semi-urban).
 This project leverages powerful data visualization and analytics techniques to provide actionable insights for strategic business decisions.
+![screen shot ofIFB Dashboard Key](https://github.com/user-attachments/assets/3c3a2e95-49ef-4511-bc17-7b1b605e6607)
